@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [ManageYourRenters](https://github.com/rkumar0206/ManageYourRenters)
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning __Spring__, __Hibernate__, and __SpringBoot__
 
-- 💬 Ask me about **Android**
+- 💬 Ask me about **Android**, __Kotlin__ and __Java__
 
 - 📫 How to reach me **rkumar8092378845@gmail.com**
 
