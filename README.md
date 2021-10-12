@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohit Kumar</h1>
 <h3 align="center">I am an Android developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rkumar0206&label=Profile%20views&color=0e75b6&style=flat" alt="rkumar0206" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=rkumar0206&label=Profile%20views&color=0e75b6&style=flat" alt="rkumar0206" /> </p> -->
 
 - 🔭 I’m currently working on [ManageYourRenters](https://github.com/rkumar0206/ManageYourRenters)
 
