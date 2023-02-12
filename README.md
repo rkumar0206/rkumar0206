@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [ManageYourRenters](https://github.com/rkumar0206/ManageYourRenters)
 
-- 🌱 I’m currently learning __Spring__, __Hibernate__, __SpringBoot__ and __Angular__
+- 🌱 I’m currently learning __Docker__, __Kubernetes__, and __GCP__
 
 - 💬 Ask me about **Android**, __Kotlin__ and __Java__
 
