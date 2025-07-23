@@ -3,7 +3,7 @@
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=rkumar0206&label=Profile%20views&color=0e75b6&style=flat" alt="rkumar0206" /> </p> -->
 
-- 🔭 I’m currently working on [ManageYourMoney](https://github.com/manage-your-money-org) and [ManageYourRenters](https://github.com/rkumar0206/ManageYourRenters)
+- 🔭 I’m currently working on [AI_Projects_Backend](https://github.com/rkumar0206/ai_projects_backend) and [AI_Projects_Frontend](https://github.com/rkumar0206/ai-projects-ui)
 
 - 🌱 I’m currently learning __Docker__, __Kubernetes__, and __GCP__
 
